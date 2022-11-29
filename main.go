@@ -161,7 +161,7 @@ var html = `<!DOCTYPE html>
         overflow: hidden;
         padding: 0;
         margin: 0;
-        width: 100%%;
+        width: 50%%;
         height: 100%%;
         background: blue
     }
