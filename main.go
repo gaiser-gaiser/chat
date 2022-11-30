@@ -107,7 +107,7 @@ var html = `<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Chat Example</title>
+    <title>Chat-gaiser</title>
     <script type="text/javascript">
     window.onload = function () {
         var conn;
